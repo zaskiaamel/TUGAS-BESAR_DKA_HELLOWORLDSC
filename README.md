@@ -1,15 +1,5 @@
-<div align="center">
 
-<br/>
-
-```
-   ___              ____                             __
-  / _ | ___ ______/ __/__  _______ _______ ____ ___/ /_
- / __ |/ -_) __/ _\ \/ _ \/ __/ -_) __/ // / _ (_-< __/
-/_/ |_/\__/_/  /___/\___/_/  \__/\__/\_,_/_//_/___/\__/
-```
-
-# ✈️ Analisis Tren Harga Tiket Pesawat pada Rute Domestik
+# ✈️ Analisis Tren Harga Tiket Pesawat pada Rute Domestik✈️
 ### Menggunakan Fuzzy Inference System untuk Rekomendasi Waktu Pembelian
 
 <br/>
