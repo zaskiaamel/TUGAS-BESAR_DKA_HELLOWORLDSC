@@ -28,6 +28,9 @@
 |:----:|:---:|:-----:|:-----:|
 | Ghaisan Hanifah Siregar | 103012400322 | ghaisanhanifah@student.telkomuniversity.ac.id | IF-48-01 |
 | Zaskia Amelia Nurudin | 103012400290 | zaskiaamelianurudin@student.telkomuniversity.ac.id | IF-48-01 |
+| Rifqy Anugerah | 103012480039 | rifqyanugerahra@student.telkomuniversity.ac.id | IF-48-01 |
+| Nailah Dhiya Marzuqoh | 103012400421 | nailahdhiyamarzuqoh@student.telkomuniversity.ac.id | IF-48-01 |
+
 
 **S1 Informatika · Fakultas Informatika · Telkom University, Bandung**
 **Mata Kuliah:** CAK2HAB3 – Dasar Kecerdasan Artifisial · Semester Genap 2025/2026
@@ -75,15 +78,15 @@ Kondisi ini menciptakan **ketidakpastian** bagi penumpang — harga tiket dapat 
 ## 🎯 Tujuan Proyek
 
 ```
-┌─────────────────────────────────────────────────────────────┐
-│                    PIPELINE AEROFORECAST                     │
-│                                                             │
+┌────────────────────────────────────────────────────────────┐
+│                    PIPELINE AEROFORECAST                   │
+│                                                            │
 │  Dataset  ──►  EDA & Stats  ──►  Time Series  ──►  FIS     │
-│                                                    │        │
-│                                              Mamdani + Sugeno│
-│                                                    │        │
-│                                             Evaluasi & Rekomendasi
-└─────────────────────────────────────────────────────────────┘
+│                                                    │       │
+│                                            Mamdani + Sugeno│
+│                                                    │       │
+│                                      Evaluasi & Rekomendasi
+└────────────────────────────────────────────────────────────┘
 ```
 
 1. **Analisis Eksplorasi Data (EDA)** — mengungkap pola dan distribusi harga tiket pesawat secara komprehensif
