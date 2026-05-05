@@ -255,10 +255,6 @@ TUGAS-BESAR_DKA_HELLOWORLDSC/
 
 ## 🚀 Cara Menjalankan
 
-### Prasyarat
-
-Pastikan Python 3.10+ telah terinstal di sistem kamu.
-
 ### 1. Clone Repository
 
 ```bash
@@ -362,10 +358,10 @@ Python 3.10+
 **AeroForecast: Smart Booking Assistant**
 
 *Tugas Besar CAK2HAB3 – Dasar Kecerdasan Artifisial*
-*Semester Genap 2024/2025 · Telkom University*
+*Semester Genap 2025/2026 · Telkom University*
 
 <br/>
 
-Made with ☕ by **HelloWorldSC** · IF-47-08
+Made with ☕ by **HelloWorldSC** · IF-48-01
 
 </div>
