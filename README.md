@@ -7,9 +7,9 @@
 [![Python](https://img.shields.io/badge/Python-3.10+-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
 [![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white)](https://jupyter.org)
 [![License](https://img.shields.io/badge/License-MIT-22C55E?style=for-the-badge)](LICENSE)
-[![Status](https://img.shields.io/badge/Status-In%20Development-F59E0B?style=for-the-badge)]()
+![Status](https://img.shields.io/badge/Status-In%20Development-F59E0B?style=for-the-badge)
 [![Dataset](https://img.shields.io/badge/Dataset-Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/datasets/shubhambathwal/flight-price-prediction)
-[![Results](https://img.shields.io/badge/assets/colab-badge.svg?style=for-the-badge&logo=colab&logoColor=black)([https://www.kaggle.com/datasets/shubhambathwal/flight-price-prediction](https://github.com/zaskiaamel/TUGAS-BESAR_DKA_HELLOWORLDSC/blob/main/Code_TubesDKA_HWSC.ipynb))
+[![Results](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)](https://github.com/zaskiaamel/TUGAS-BESAR_DKA_HELLOWORLDSC/blob/main/Code_TubesDKA_HWSC.ipynb)
 
 
 <br/>
