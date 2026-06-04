@@ -9,6 +9,8 @@
 [![License](https://img.shields.io/badge/License-MIT-22C55E?style=for-the-badge)](LICENSE)
 [![Status](https://img.shields.io/badge/Status-In%20Development-F59E0B?style=for-the-badge)]()
 [![Dataset](https://img.shields.io/badge/Dataset-Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/datasets/shubhambathwal/flight-price-prediction)
+[![Results](https://img.shields.io/badge/claude.ai?style=for-the-badge&logo=chatgpt&logoColor=black)]([https://www.kaggle.com/datasets/shubhambathwal/flight-price-prediction](https://github.com/zaskiaamel/TUGAS-BESAR_DKA_HELLOWORLDSC/blob/main/Code_TubesDKA_HWSC.ipynb))
+
 
 <br/>
 
